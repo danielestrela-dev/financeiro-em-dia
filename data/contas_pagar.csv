@@ -1,0 +1,501 @@
+﻿id_titulo,fornecedor,categoria,centro_custo,data_emissao,data_vencimento,valor,status,data_pagamento,criticidade,descricao
+CP-0001,Nuvem Clara Tecnologia,Utilidades,Tecnologia,2026-08-15,2026-08-22,16555.94,Pago,2026-09-03,Alta,Conta de energia
+CP-0002,Segurança Guardião,Viagens,Pessoas,2026-08-04,2026-09-01,11720.66,Pago,2026-08-27,Média,Transporte terrestre
+CP-0003,Papelaria Horizonte,Logística,Pessoas,2026-01-15,2026-02-12,17974.58,Em aberto,,Baixa,Frete de mercadorias
+CP-0004,Consultoria Prisma,Viagens,Comercial,2026-01-11,2026-03-12,2408.23,Pago,2026-03-11,Baixa,Passagens
+CP-0005,Gráfica Estação,Logística,Administrativo,2025-12-29,2026-01-26,8436.31,Pago,2026-02-01,Baixa,Entrega expressa
+CP-0006,Café das Palmeiras,Utilidades,Administrativo,2026-06-08,2026-07-23,14984.33,Em aberto,,Baixa,Telefonia e internet
+CP-0007,Alimentos Campo Bom,Aluguel,Tecnologia,2025-10-16,2025-11-15,5457.36,Pago,2025-11-19,Alta,Locação de equipamento
+CP-0008,Serviços Alfa,Viagens,Operações,2026-05-05,2026-06-09,33280.39,Em aberto,,Baixa,Transporte terrestre
+CP-0009,Energia do Vale,Marketing,Operações,2026-10-22,2026-11-19,10121.40,Pago,2026-10-28,Baixa,Material promocional
+CP-0010,Limpeza Brilho Novo,Viagens,Operações,2025-10-22,2025-10-29,25848.78,Pago,2025-11-12,Baixa,Transporte terrestre
+CP-0011,Café das Palmeiras,Utilidades,Financeiro,2026-09-29,2026-10-29,21523.91,Em aberto,,Média,Conta de água
+CP-0012,Hotel Vila Serena,Tecnologia,Administrativo,2026-01-31,2026-02-28,24767.15,Pago,2026-03-11,Baixa,Hospedagem em nuvem
+CP-0013,Energia do Vale,Tecnologia,Administrativo,2025-12-19,2026-01-16,2491.37,Em aberto,,Baixa,Hospedagem em nuvem
+CP-0014,Telefonia Conecta,Logística,Administrativo,2026-09-08,2026-09-29,16703.28,Em aberto,,Média,Frete de mercadorias
+CP-0015,Nuvem Clara Tecnologia,Logística,Pessoas,2026-07-11,2026-08-15,25611.83,Em aberto,,Média,Frete de mercadorias
+CP-0016,Papelaria Horizonte,Materiais,Tecnologia,2025-10-10,2025-11-14,14009.58,Pago,2025-11-23,Média,Compra de equipamentos
+CP-0017,Água Serra Verde,Materiais,Administrativo,2025-10-13,2025-11-03,14460.45,Em aberto,,Média,Insumos operacionais
+CP-0018,Limpeza Brilho Novo,Aluguel,Administrativo,2026-05-23,2026-06-27,5518.14,Pago,2026-06-25,Média,Locação de escritório
+CP-0019,Móveis Traço,Materiais,Comercial,2025-11-08,2025-12-23,11282.49,Pago,2025-12-20,Alta,Material de escritório
+CP-0020,Transporte Via Norte,Marketing,Financeiro,2026-08-31,2026-09-30,9411.85,Em aberto,,Alta,Material promocional
+CP-0021,Gráfica Estação,Materiais,Comercial,2026-02-20,2026-02-27,33401.50,Pago,2026-03-05,Média,Insumos operacionais
+CP-0022,Manutenção Ponto Certo,Viagens,Operações,2026-03-09,2026-03-30,20016.45,Em aberto,,Média,Passagens
+CP-0023,Café das Palmeiras,Materiais,Pessoas,2026-07-29,2026-08-26,5939.09,Em aberto,,Baixa,Material de escritório
+CP-0024,Gráfica Estação,Utilidades,Pessoas,2026-07-18,2026-09-01,8682.29,Em aberto,,Alta,Conta de energia
+CP-0025,Telefonia Conecta,Marketing,Operações,2026-09-11,2026-09-18,13879.54,Pago,2026-09-29,Alta,Material promocional
+CP-0026,Energia do Vale,Marketing,Pessoas,2026-08-21,2026-09-20,10973.21,Em aberto,,Baixa,Produção de conteúdo
+CP-0027,Nuvem Clara Tecnologia,Utilidades,Operações,2026-09-28,2026-10-26,10731.81,Pago,2026-10-28,Média,Telefonia e internet
+CP-0028,Serviços Alfa,Marketing,Administrativo,2026-07-28,2026-08-25,5693.63,Pago,2026-08-25,Baixa,Produção de conteúdo
+CP-0029,Móveis Traço,Marketing,Comercial,2026-07-28,2026-09-26,3578.86,Pago,2026-10-03,Média,Material promocional
+CP-0030,Café das Palmeiras,Serviços,Tecnologia,2026-09-28,2026-10-19,6215.02,Pago,2026-10-28,Média,Serviço de limpeza
+CP-0031,Segurança Guardião,Marketing,Operações,2025-10-05,2025-10-26,28133.03,Em aberto,,Baixa,Produção de conteúdo
+CP-0032,Consultoria Prisma,Serviços,Comercial,2026-03-27,2026-05-11,26274.18,Pago,2026-05-06,Alta,Serviço de limpeza
+CP-0033,Telefonia Conecta,Marketing,Comercial,2026-10-02,2026-11-06,1215.03,Em aberto,,Baixa,Produção de conteúdo
+CP-0034,Café das Palmeiras,Viagens,Pessoas,2026-04-01,2026-04-15,2059.44,Pago,2026-04-26,Baixa,Passagens
+CP-0035,Consultoria Prisma,Tecnologia,Financeiro,2026-02-22,2026-04-08,3072.43,Pago,2026-04-06,Média,Hospedagem em nuvem
+CP-0036,Transporte Via Norte,Logística,Pessoas,2026-02-02,2026-04-03,7032.16,Em aberto,,Baixa,Armazenagem
+CP-0037,Papelaria Horizonte,Materiais,Administrativo,2026-04-08,2026-05-13,22676.16,Pago,2026-05-21,Baixa,Insumos operacionais
+CP-0038,Papelaria Horizonte,Aluguel,Tecnologia,2026-03-09,2026-04-23,26472.37,Pago,2026-04-29,Média,Locação de escritório
+CP-0039,Gráfica Estação,Tecnologia,Administrativo,2026-01-01,2026-02-15,10894.86,Pago,2026-02-13,Média,Hospedagem em nuvem
+CP-0040,Limpeza Brilho Novo,Materiais,Pessoas,2026-10-09,2026-10-30,3148.21,Em aberto,,Média,Compra de equipamentos
+CP-0041,Limpeza Brilho Novo,Materiais,Financeiro,2025-11-17,2025-12-22,24920.39,Pago,2025-12-27,Baixa,Insumos operacionais
+CP-0042,Segurança Guardião,Marketing,Comercial,2026-07-03,2026-08-17,21801.86,Pago,2026-08-14,Média,Campanha digital
+CP-0043,Limpeza Brilho Novo,Tecnologia,Tecnologia,2025-10-23,2025-11-22,24496.59,Pago,2025-12-04,Média,Licença de software
+CP-0044,Consultoria Prisma,Utilidades,Administrativo,2026-08-17,2026-09-21,586.26,Pago,2026-09-30,Baixa,Conta de energia
+CP-0045,Gráfica Estação,Utilidades,Comercial,2025-12-03,2025-12-10,9425.90,Pago,2025-12-10,Alta,Telefonia e internet
+CP-0046,Móveis Traço,Serviços,Tecnologia,2026-10-26,2026-12-25,6639.80,Em aberto,,Média,Consultoria mensal
+CP-0047,Café das Palmeiras,Aluguel,Pessoas,2026-10-01,2026-10-22,27589.89,Em aberto,,Média,Condomínio
+CP-0048,Manutenção Ponto Certo,Logística,Administrativo,2026-08-04,2026-09-08,362.62,Pago,2026-09-21,Média,Armazenagem
+CP-0049,Consultoria Prisma,Tecnologia,Operações,2026-01-01,2026-01-15,13772.52,Pago,2026-01-31,Média,Licença de software
+CP-0050,Café das Palmeiras,Tecnologia,Financeiro,2026-05-20,2026-06-24,3676.50,Pago,2026-06-29,Baixa,Licença de software
+CP-0051,Telefonia Conecta,Logística,Operações,2026-02-03,2026-02-17,824.79,Em aberto,,Média,Armazenagem
+CP-0052,Consultoria Prisma,Utilidades,Administrativo,2026-02-01,2026-02-22,3678.81,Pago,2026-02-25,Alta,Telefonia e internet
+CP-0053,Software Ponto Azul,Tecnologia,Pessoas,2026-03-27,2026-05-11,19236.54,Pago,2026-05-18,Alta,Suporte técnico
+CP-0054,Transporte Via Norte,Serviços,Operações,2025-10-06,2025-10-27,20237.99,Em aberto,,Alta,Serviço de limpeza
+CP-0055,Café das Palmeiras,Utilidades,Administrativo,2026-09-20,2026-10-11,3642.26,Pago,2026-10-20,Alta,Telefonia e internet
+CP-0056,Hotel Vila Serena,Marketing,Tecnologia,2025-12-03,2026-01-07,16422.46,Em aberto,,Baixa,Campanha digital
+CP-0057,Café das Palmeiras,Aluguel,Administrativo,2026-10-01,2026-11-15,9313.34,Em aberto,,Baixa,Locação de equipamento
+CP-0058,Nuvem Clara Tecnologia,Viagens,Comercial,2026-04-30,2026-06-14,2413.31,Pago,2026-06-29,Baixa,Transporte terrestre
+CP-0059,Consultoria Prisma,Tecnologia,Comercial,2025-10-03,2025-10-17,36649.21,Pago,2025-10-21,Baixa,Suporte técnico
+CP-0060,Alimentos Campo Bom,Aluguel,Comercial,2026-04-08,2026-05-08,24790.10,Em aberto,,Média,Locação de escritório
+CP-0061,Nuvem Clara Tecnologia,Serviços,Comercial,2026-01-29,2026-02-05,12590.54,Em aberto,,Alta,Manutenção preventiva
+CP-0062,Gráfica Estação,Serviços,Pessoas,2026-04-13,2026-05-13,384.08,Pago,2026-05-20,Média,Consultoria mensal
+CP-0063,Telefonia Conecta,Viagens,Administrativo,2026-07-20,2026-08-17,18552.79,Em aberto,,Baixa,Passagens
+CP-0064,Limpeza Brilho Novo,Viagens,Operações,2026-03-18,2026-04-08,15833.95,Pago,2026-04-19,Baixa,Passagens
+CP-0065,Energia do Vale,Utilidades,Administrativo,2026-05-07,2026-06-04,2960.67,Pago,2026-06-16,Baixa,Telefonia e internet
+CP-0066,Consultoria Prisma,Marketing,Tecnologia,2026-05-25,2026-06-29,5409.86,Pago,2026-06-30,Média,Material promocional
+CP-0067,Gráfica Estação,Tecnologia,Pessoas,2026-09-12,2026-10-03,23572.56,Pago,2026-10-18,Alta,Licença de software
+CP-0068,Manutenção Ponto Certo,Tecnologia,Operações,2026-01-30,2026-03-06,14169.90,Em aberto,,Baixa,Licença de software
+CP-0069,Serviços Alfa,Marketing,Financeiro,2026-09-17,2026-11-16,1334.72,Em aberto,,Média,Campanha digital
+CP-0070,Hotel Vila Serena,Materiais,Financeiro,2026-10-03,2026-10-17,7557.19,Em aberto,,Média,Insumos operacionais
+CP-0071,Café das Palmeiras,Serviços,Pessoas,2025-10-18,2025-10-25,2964.49,Pago,2025-11-09,Média,Serviço de limpeza
+CP-0072,Papelaria Horizonte,Marketing,Comercial,2026-04-04,2026-05-19,21740.68,Em aberto,,Média,Produção de conteúdo
+CP-0073,Alimentos Campo Bom,Aluguel,Comercial,2026-06-01,2026-07-06,26676.05,Pago,2026-07-06,Média,Condomínio
+CP-0074,Serviços Alfa,Viagens,Tecnologia,2026-06-22,2026-08-21,17752.82,Em aberto,,Baixa,Hospedagem corporativa
+CP-0075,Segurança Guardião,Viagens,Administrativo,2026-04-26,2026-05-26,9772.71,Em aberto,,Baixa,Passagens
+CP-0076,Transporte Via Norte,Utilidades,Operações,2026-04-25,2026-05-30,2421.73,Pago,2026-05-26,Média,Telefonia e internet
+CP-0077,Energia do Vale,Utilidades,Pessoas,2026-02-05,2026-02-12,26274.84,Pago,2026-03-01,Baixa,Telefonia e internet
+CP-0078,Papelaria Horizonte,Marketing,Pessoas,2026-09-08,2026-09-15,23456.95,Pago,2026-09-24,Média,Material promocional
+CP-0079,Telefonia Conecta,Tecnologia,Financeiro,2026-04-26,2026-06-10,867.47,Em aberto,,Média,Hospedagem em nuvem
+CP-0080,Consultoria Prisma,Serviços,Comercial,2025-10-08,2025-10-29,36291.91,Pago,2025-11-08,Baixa,Serviço de limpeza
+CP-0081,Transporte Via Norte,Tecnologia,Comercial,2026-01-24,2026-02-07,11473.96,Pago,2026-02-15,Média,Hospedagem em nuvem
+CP-0082,Manutenção Ponto Certo,Marketing,Administrativo,2026-10-01,2026-10-31,19886.70,Em aberto,,Alta,Produção de conteúdo
+CP-0083,Nuvem Clara Tecnologia,Marketing,Administrativo,2026-09-19,2026-10-10,20201.24,Pago,2026-10-09,Alta,Material promocional
+CP-0084,Transporte Via Norte,Tecnologia,Financeiro,2026-04-30,2026-05-21,8726.93,Em aberto,,Baixa,Hospedagem em nuvem
+CP-0085,Energia do Vale,Materiais,Operações,2026-04-21,2026-05-26,28232.54,Pago,2026-06-01,Alta,Compra de equipamentos
+CP-0086,Gráfica Estação,Aluguel,Tecnologia,2026-03-10,2026-03-17,2116.32,Em aberto,,Média,Locação de equipamento
+CP-0087,Telefonia Conecta,Logística,Administrativo,2026-08-28,2026-09-27,14511.80,Em aberto,,Baixa,Frete de mercadorias
+CP-0088,Transporte Via Norte,Viagens,Pessoas,2025-11-20,2025-11-27,2617.06,Pago,2025-12-15,Média,Hospedagem corporativa
+CP-0089,Água Serra Verde,Materiais,Administrativo,2026-01-16,2026-02-13,18409.99,Em aberto,,Baixa,Material de escritório
+CP-0090,Transporte Via Norte,Tecnologia,Administrativo,2026-06-09,2026-07-14,7585.39,Em aberto,,Média,Suporte técnico
+CP-0091,Limpeza Brilho Novo,Materiais,Comercial,2026-07-26,2026-08-16,15235.08,Pago,2026-08-18,Média,Material de escritório
+CP-0092,Transporte Via Norte,Utilidades,Administrativo,2025-11-19,2025-12-24,14201.90,Em aberto,,Alta,Conta de água
+CP-0093,Consultoria Prisma,Logística,Operações,2025-12-11,2026-01-08,16137.44,Pago,2026-01-11,Baixa,Entrega expressa
+CP-0094,Hotel Vila Serena,Marketing,Financeiro,2025-11-07,2026-01-06,3291.24,Pago,2026-01-11,Baixa,Material promocional
+CP-0095,Nuvem Clara Tecnologia,Materiais,Pessoas,2026-07-13,2026-08-03,7297.55,Em aberto,,Média,Compra de equipamentos
+CP-0096,Alimentos Campo Bom,Materiais,Pessoas,2026-01-26,2026-03-02,25785.90,Pago,2026-03-17,Baixa,Insumos operacionais
+CP-0097,Manutenção Ponto Certo,Aluguel,Operações,2026-04-22,2026-05-13,27089.79,Pago,2026-05-15,Média,Locação de equipamento
+CP-0098,Alimentos Campo Bom,Marketing,Tecnologia,2026-03-22,2026-04-05,1986.37,Em aberto,,Média,Material promocional
+CP-0099,Móveis Traço,Serviços,Financeiro,2026-07-24,2026-08-21,37173.01,Pago,2026-08-16,Média,Serviço de limpeza
+CP-0100,Transporte Via Norte,Tecnologia,Administrativo,2025-11-08,2025-12-06,9264.86,Em aberto,,Média,Suporte técnico
+CP-0101,Telefonia Conecta,Logística,Comercial,2026-03-13,2026-04-10,20593.71,Pago,2026-04-22,Média,Entrega expressa
+CP-0102,Energia do Vale,Viagens,Tecnologia,2026-10-26,2026-11-09,19687.60,Em aberto,,Média,Hospedagem corporativa
+CP-0103,Logística Rota Sul,Marketing,Operações,2025-12-19,2026-01-09,17008.10,Pago,2026-01-16,Média,Campanha digital
+CP-0104,Software Ponto Azul,Serviços,Operações,2026-02-11,2026-03-18,34294.48,Pago,2026-03-17,Alta,Manutenção preventiva
+CP-0105,Limpeza Brilho Novo,Logística,Financeiro,2026-08-18,2026-09-17,28043.85,Pago,2026-09-22,Média,Armazenagem
+CP-0106,Transporte Via Norte,Viagens,Comercial,2026-10-24,2026-11-21,1874.26,Em aberto,,Baixa,Passagens
+CP-0107,Telefonia Conecta,Aluguel,Pessoas,2026-02-28,2026-04-29,10852.59,Em aberto,,Média,Condomínio
+CP-0108,Café das Palmeiras,Viagens,Pessoas,2026-10-13,2026-11-17,6520.29,Em aberto,,Baixa,Passagens
+CP-0109,Logística Rota Sul,Logística,Operações,2025-11-09,2025-11-23,2092.28,Em aberto,,Média,Entrega expressa
+CP-0110,Manutenção Ponto Certo,Utilidades,Financeiro,2026-08-02,2026-08-09,19471.18,Pago,2026-08-08,Média,Conta de energia
+CP-0111,Energia do Vale,Viagens,Tecnologia,2026-09-22,2026-09-29,1903.38,Pago,2026-09-27,Média,Passagens
+CP-0112,Nuvem Clara Tecnologia,Viagens,Financeiro,2025-11-20,2026-01-04,10336.58,Pago,2026-01-21,Média,Passagens
+CP-0113,Transporte Via Norte,Marketing,Pessoas,2026-04-02,2026-06-01,24136.81,Pago,2026-05-27,Alta,Material promocional
+CP-0114,Telefonia Conecta,Utilidades,Comercial,2026-05-27,2026-06-10,12524.29,Pago,2026-06-26,Média,Conta de água
+CP-0115,Limpeza Brilho Novo,Logística,Pessoas,2026-02-01,2026-04-02,4661.63,Pago,2026-04-14,Média,Armazenagem
+CP-0116,Limpeza Brilho Novo,Materiais,Tecnologia,2026-03-07,2026-03-28,1960.07,Pago,2026-03-24,Baixa,Material de escritório
+CP-0117,Móveis Traço,Utilidades,Pessoas,2026-09-18,2026-11-17,1614.81,Em aberto,,Média,Conta de água
+CP-0118,Manutenção Ponto Certo,Viagens,Administrativo,2025-11-11,2025-12-09,23207.95,Em aberto,,Média,Passagens
+CP-0119,Limpeza Brilho Novo,Serviços,Pessoas,2026-02-19,2026-04-05,8010.55,Em aberto,,Alta,Serviço de limpeza
+CP-0120,Café das Palmeiras,Materiais,Administrativo,2026-06-18,2026-07-02,17105.22,Pago,2026-07-13,Média,Insumos operacionais
+CP-0121,Água Serra Verde,Serviços,Financeiro,2026-03-29,2026-04-12,13746.66,Pago,2026-04-14,Baixa,Serviço de limpeza
+CP-0122,Móveis Traço,Materiais,Administrativo,2026-02-03,2026-02-10,1838.89,Em aberto,,Média,Insumos operacionais
+CP-0123,Limpeza Brilho Novo,Materiais,Comercial,2026-03-23,2026-04-20,11191.84,Pago,2026-04-30,Baixa,Compra de equipamentos
+CP-0124,Gráfica Estação,Serviços,Administrativo,2026-02-22,2026-03-15,4429.96,Em aberto,,Média,Consultoria mensal
+CP-0125,Serviços Alfa,Logística,Pessoas,2026-04-19,2026-05-03,20596.98,Pago,2026-05-09,Média,Entrega expressa
+CP-0126,Transporte Via Norte,Materiais,Pessoas,2026-01-13,2026-01-20,21077.84,Pago,2026-01-19,Baixa,Material de escritório
+CP-0127,Energia do Vale,Viagens,Financeiro,2026-04-18,2026-05-02,1739.73,Pago,2026-05-06,Média,Transporte terrestre
+CP-0128,Móveis Traço,Utilidades,Administrativo,2026-09-16,2026-10-31,6495.51,Em aberto,,Baixa,Telefonia e internet
+CP-0129,Móveis Traço,Materiais,Comercial,2025-11-05,2025-11-12,26453.97,Em aberto,,Alta,Material de escritório
+CP-0130,Alimentos Campo Bom,Utilidades,Comercial,2026-09-13,2026-10-18,16229.51,Pago,2026-10-28,Média,Conta de água
+CP-0131,Consultoria Prisma,Tecnologia,Comercial,2026-08-11,2026-09-10,27328.75,Em aberto,,Baixa,Suporte técnico
+CP-0132,Consultoria Prisma,Logística,Operações,2026-03-04,2026-04-18,35899.75,Pago,2026-04-17,Média,Armazenagem
+CP-0133,Logística Rota Sul,Logística,Financeiro,2026-10-07,2026-10-28,12252.82,Pago,2026-10-28,Média,Armazenagem
+CP-0134,Café das Palmeiras,Logística,Comercial,2026-07-05,2026-08-04,7737.14,Pago,2026-08-04,Baixa,Entrega expressa
+CP-0135,Logística Rota Sul,Serviços,Comercial,2026-09-22,2026-10-27,26052.76,Pago,2026-10-28,Média,Consultoria mensal
+CP-0136,Logística Rota Sul,Serviços,Administrativo,2026-09-18,2026-10-16,14177.48,Pago,2026-10-28,Baixa,Consultoria mensal
+CP-0137,Móveis Traço,Materiais,Financeiro,2026-03-07,2026-04-21,11107.90,Pago,2026-05-05,Baixa,Insumos operacionais
+CP-0138,Transporte Via Norte,Marketing,Operações,2026-04-05,2026-04-19,5601.49,Pago,2026-04-28,Alta,Material promocional
+CP-0139,Água Serra Verde,Materiais,Financeiro,2026-10-25,2026-11-08,5600.55,Em aberto,,Baixa,Insumos operacionais
+CP-0140,Consultoria Prisma,Marketing,Administrativo,2026-07-01,2026-08-30,5817.82,Pago,2026-09-02,Média,Campanha digital
+CP-0141,Transporte Via Norte,Marketing,Financeiro,2026-05-19,2026-07-18,16754.84,Pago,2026-07-29,Baixa,Produção de conteúdo
+CP-0142,Hotel Vila Serena,Viagens,Tecnologia,2025-12-03,2026-01-07,7641.66,Em aberto,,Baixa,Transporte terrestre
+CP-0143,Telefonia Conecta,Utilidades,Pessoas,2026-02-04,2026-02-18,22714.63,Em aberto,,Média,Conta de energia
+CP-0144,Café das Palmeiras,Marketing,Financeiro,2026-05-06,2026-05-13,5298.82,Pago,2026-05-17,Média,Produção de conteúdo
+CP-0145,Café das Palmeiras,Utilidades,Operações,2026-04-10,2026-04-24,9818.78,Pago,2026-05-01,Média,Conta de energia
+CP-0146,Nuvem Clara Tecnologia,Materiais,Tecnologia,2026-05-27,2026-07-11,1696.54,Pago,2026-07-16,Baixa,Compra de equipamentos
+CP-0147,Segurança Guardião,Aluguel,Financeiro,2026-06-01,2026-06-29,8774.12,Em aberto,,Alta,Condomínio
+CP-0148,Café das Palmeiras,Serviços,Comercial,2026-02-08,2026-03-01,19606.71,Pago,2026-03-10,Média,Consultoria mensal
+CP-0149,Consultoria Prisma,Tecnologia,Tecnologia,2026-02-08,2026-03-01,6041.64,Pago,2026-03-17,Baixa,Suporte técnico
+CP-0150,Energia do Vale,Marketing,Administrativo,2025-11-05,2025-12-05,13618.20,Pago,2025-12-20,Baixa,Produção de conteúdo
+CP-0151,Água Serra Verde,Utilidades,Financeiro,2026-04-22,2026-05-20,5922.07,Em aberto,,Baixa,Conta de água
+CP-0152,Consultoria Prisma,Serviços,Operações,2025-12-03,2025-12-31,18280.93,Em aberto,,Média,Consultoria mensal
+CP-0153,Móveis Traço,Utilidades,Financeiro,2025-12-22,2026-02-20,17635.38,Pago,2026-02-15,Baixa,Conta de energia
+CP-0154,Transporte Via Norte,Viagens,Operações,2025-12-14,2025-12-28,10071.35,Pago,2026-01-05,Alta,Hospedagem corporativa
+CP-0155,Logística Rota Sul,Logística,Comercial,2025-12-15,2026-01-29,24118.21,Pago,2026-01-28,Baixa,Armazenagem
+CP-0156,Limpeza Brilho Novo,Materiais,Financeiro,2026-04-15,2026-05-06,31085.21,Em aberto,,Média,Insumos operacionais
+CP-0157,Serviços Alfa,Utilidades,Comercial,2026-10-04,2026-11-03,19698.48,Em aberto,,Alta,Conta de água
+CP-0158,Transporte Via Norte,Materiais,Comercial,2026-09-23,2026-10-07,14988.90,Pago,2026-10-03,Média,Insumos operacionais
+CP-0159,Alimentos Campo Bom,Aluguel,Tecnologia,2026-08-28,2026-10-27,5665.58,Pago,2026-10-28,Baixa,Condomínio
+CP-0160,Segurança Guardião,Viagens,Administrativo,2026-08-27,2026-10-01,7002.65,Em aberto,,Alta,Hospedagem corporativa
+CP-0161,Móveis Traço,Utilidades,Pessoas,2026-07-12,2026-08-09,20986.85,Pago,2026-08-16,Média,Telefonia e internet
+CP-0162,Logística Rota Sul,Tecnologia,Comercial,2025-11-14,2025-12-12,5764.15,Pago,2025-12-14,Média,Suporte técnico
+CP-0163,Hotel Vila Serena,Logística,Comercial,2026-01-13,2026-02-17,2630.27,Pago,2026-02-27,Média,Entrega expressa
+CP-0164,Alimentos Campo Bom,Serviços,Financeiro,2025-10-13,2025-11-17,21619.89,Pago,2025-11-21,Alta,Manutenção preventiva
+CP-0165,Limpeza Brilho Novo,Marketing,Pessoas,2025-11-19,2025-12-10,12238.47,Pago,2025-12-08,Média,Material promocional
+CP-0166,Consultoria Prisma,Logística,Pessoas,2025-12-03,2026-01-17,23138.72,Pago,2026-01-21,Média,Entrega expressa
+CP-0167,Alimentos Campo Bom,Materiais,Pessoas,2025-12-24,2026-01-28,5350.45,Pago,2026-02-01,Média,Insumos operacionais
+CP-0168,Café das Palmeiras,Materiais,Administrativo,2026-03-09,2026-03-16,1231.30,Em aberto,,Média,Material de escritório
+CP-0169,Transporte Via Norte,Aluguel,Tecnologia,2026-03-03,2026-03-10,26923.85,Em aberto,,Baixa,Locação de equipamento
+CP-0170,Papelaria Horizonte,Marketing,Pessoas,2026-02-27,2026-03-13,7483.71,Pago,2026-03-12,Média,Campanha digital
+CP-0171,Água Serra Verde,Aluguel,Operações,2026-02-26,2026-03-19,1974.95,Em aberto,,Média,Locação de equipamento
+CP-0172,Consultoria Prisma,Logística,Tecnologia,2026-01-20,2026-03-06,26537.51,Em aberto,,Média,Entrega expressa
+CP-0173,Segurança Guardião,Serviços,Comercial,2025-12-30,2026-01-27,5192.37,Pago,2026-02-05,Baixa,Manutenção preventiva
+CP-0174,Manutenção Ponto Certo,Aluguel,Tecnologia,2026-02-24,2026-03-03,18184.19,Em aberto,,Média,Condomínio
+CP-0175,Limpeza Brilho Novo,Tecnologia,Pessoas,2026-02-13,2026-03-06,16138.48,Pago,2026-03-03,Baixa,Hospedagem em nuvem
+CP-0176,Energia do Vale,Materiais,Comercial,2026-03-25,2026-05-24,36814.33,Pago,2026-06-03,Baixa,Insumos operacionais
+CP-0177,Energia do Vale,Viagens,Pessoas,2026-01-16,2026-02-06,8050.10,Pago,2026-02-05,Baixa,Hospedagem corporativa
+CP-0178,Serviços Alfa,Logística,Administrativo,2026-10-19,2026-11-09,13554.81,Em aberto,,Média,Armazenagem
+CP-0179,Telefonia Conecta,Utilidades,Financeiro,2025-11-02,2025-12-17,6819.84,Pago,2025-12-28,Média,Telefonia e internet
+CP-0180,Logística Rota Sul,Viagens,Administrativo,2026-08-27,2026-09-26,25943.79,Em aberto,,Baixa,Passagens
+CP-0181,Telefonia Conecta,Logística,Tecnologia,2026-07-15,2026-07-29,17718.23,Pago,2026-08-02,Alta,Frete de mercadorias
+CP-0182,Café das Palmeiras,Logística,Tecnologia,2026-06-16,2026-08-15,4245.82,Em aberto,,Média,Frete de mercadorias
+CP-0183,Papelaria Horizonte,Logística,Tecnologia,2026-02-10,2026-03-12,26809.43,Pago,2026-03-18,Média,Entrega expressa
+CP-0184,Logística Rota Sul,Tecnologia,Financeiro,2026-01-03,2026-01-24,31361.98,Pago,2026-01-22,Média,Suporte técnico
+CP-0185,Café das Palmeiras,Utilidades,Financeiro,2026-02-28,2026-03-21,4648.75,Pago,2026-04-05,Média,Conta de energia
+CP-0186,Móveis Traço,Marketing,Financeiro,2026-06-14,2026-08-13,20889.27,Pago,2026-08-30,Baixa,Produção de conteúdo
+CP-0187,Telefonia Conecta,Aluguel,Administrativo,2026-02-25,2026-04-26,4995.42,Em aberto,,Alta,Locação de escritório
+CP-0188,Serviços Alfa,Viagens,Comercial,2026-05-06,2026-05-27,4322.67,Pago,2026-06-06,Média,Passagens
+CP-0189,Serviços Alfa,Viagens,Financeiro,2026-09-22,2026-11-06,12642.06,Em aberto,,Baixa,Transporte terrestre
+CP-0190,Consultoria Prisma,Viagens,Operações,2025-11-04,2025-12-02,1951.18,Pago,2025-12-20,Média,Passagens
+CP-0191,Serviços Alfa,Marketing,Pessoas,2026-01-20,2026-02-19,6453.96,Pago,2026-02-16,Baixa,Produção de conteúdo
+CP-0192,Nuvem Clara Tecnologia,Logística,Operações,2025-11-05,2026-01-04,19469.91,Em aberto,,Média,Armazenagem
+CP-0193,Alimentos Campo Bom,Serviços,Pessoas,2026-08-23,2026-09-06,11224.49,Em aberto,,Baixa,Serviço de limpeza
+CP-0194,Serviços Alfa,Utilidades,Comercial,2026-07-19,2026-08-18,20785.81,Em aberto,,Baixa,Telefonia e internet
+CP-0195,Café das Palmeiras,Utilidades,Operações,2026-08-21,2026-09-11,15872.00,Pago,2026-09-09,Alta,Telefonia e internet
+CP-0196,Nuvem Clara Tecnologia,Utilidades,Comercial,2026-02-09,2026-04-10,5056.55,Em aberto,,Baixa,Conta de energia
+CP-0197,Telefonia Conecta,Logística,Financeiro,2026-10-24,2026-12-08,33806.96,Em aberto,,Média,Entrega expressa
+CP-0198,Móveis Traço,Viagens,Operações,2026-08-11,2026-09-01,6595.25,Em aberto,,Média,Passagens
+CP-0199,Consultoria Prisma,Utilidades,Financeiro,2026-05-23,2026-07-22,26076.37,Pago,2026-07-18,Baixa,Conta de energia
+CP-0200,Hotel Vila Serena,Tecnologia,Tecnologia,2025-10-07,2025-10-21,8468.98,Em aberto,,Média,Hospedagem em nuvem
+CP-0201,Consultoria Prisma,Viagens,Tecnologia,2026-06-02,2026-06-23,3087.68,Em aberto,,Média,Transporte terrestre
+CP-0202,Energia do Vale,Logística,Comercial,2026-08-05,2026-09-04,7026.77,Em aberto,,Média,Entrega expressa
+CP-0203,Móveis Traço,Marketing,Administrativo,2025-11-14,2025-12-29,2059.79,Pago,2026-01-08,Alta,Campanha digital
+CP-0204,Energia do Vale,Tecnologia,Administrativo,2026-05-10,2026-05-24,25664.29,Pago,2026-05-23,Média,Suporte técnico
+CP-0205,Consultoria Prisma,Serviços,Financeiro,2026-09-11,2026-10-11,4971.25,Pago,2026-10-28,Média,Serviço de limpeza
+CP-0206,Alimentos Campo Bom,Viagens,Financeiro,2025-10-30,2025-11-06,20955.78,Em aberto,,Baixa,Hospedagem corporativa
+CP-0207,Logística Rota Sul,Aluguel,Tecnologia,2026-06-10,2026-07-25,20333.18,Pago,2026-07-22,Média,Locação de equipamento
+CP-0208,Segurança Guardião,Logística,Administrativo,2026-06-04,2026-06-18,10298.55,Pago,2026-06-30,Alta,Entrega expressa
+CP-0209,Logística Rota Sul,Tecnologia,Financeiro,2026-01-10,2026-02-09,18995.29,Pago,2026-02-22,Alta,Suporte técnico
+CP-0210,Gráfica Estação,Serviços,Pessoas,2026-03-30,2026-05-04,19167.72,Em aberto,,Alta,Consultoria mensal
+CP-0211,Água Serra Verde,Materiais,Operações,2026-01-09,2026-02-08,21831.08,Pago,2026-02-24,Baixa,Compra de equipamentos
+CP-0212,Nuvem Clara Tecnologia,Utilidades,Financeiro,2026-03-07,2026-03-21,14642.83,Pago,2026-03-16,Baixa,Conta de água
+CP-0213,Alimentos Campo Bom,Utilidades,Financeiro,2025-12-20,2026-01-10,14577.44,Pago,2026-01-08,Média,Telefonia e internet
+CP-0214,Segurança Guardião,Aluguel,Administrativo,2025-10-24,2025-12-23,18608.21,Pago,2025-12-26,Baixa,Condomínio
+CP-0215,Café das Palmeiras,Aluguel,Comercial,2026-09-29,2026-10-06,18156.92,Em aberto,,Média,Locação de escritório
+CP-0216,Manutenção Ponto Certo,Serviços,Tecnologia,2025-11-06,2025-11-20,5627.24,Em aberto,,Média,Manutenção preventiva
+CP-0217,Software Ponto Azul,Materiais,Tecnologia,2026-07-29,2026-08-28,7874.61,Pago,2026-08-28,Alta,Insumos operacionais
+CP-0218,Limpeza Brilho Novo,Utilidades,Comercial,2026-09-04,2026-10-09,14539.51,Em aberto,,Baixa,Conta de água
+CP-0219,Software Ponto Azul,Marketing,Tecnologia,2026-05-08,2026-06-07,3832.39,Pago,2026-06-10,Média,Produção de conteúdo
+CP-0220,Café das Palmeiras,Marketing,Comercial,2026-01-19,2026-02-02,26778.41,Pago,2026-02-10,Baixa,Campanha digital
+CP-0221,Móveis Traço,Serviços,Administrativo,2026-02-01,2026-03-18,15112.89,Pago,2026-03-15,Média,Manutenção preventiva
+CP-0222,Transporte Via Norte,Logística,Tecnologia,2026-09-23,2026-10-23,22873.66,Em aberto,,Baixa,Frete de mercadorias
+CP-0223,Telefonia Conecta,Tecnologia,Administrativo,2025-10-17,2025-10-31,12714.54,Pago,2025-11-01,Média,Suporte técnico
+CP-0224,Software Ponto Azul,Viagens,Comercial,2026-10-09,2026-12-08,28137.26,Em aberto,,Média,Passagens
+CP-0225,Hotel Vila Serena,Tecnologia,Administrativo,2025-12-29,2026-02-12,16203.46,Pago,2026-02-25,Baixa,Hospedagem em nuvem
+CP-0226,Água Serra Verde,Viagens,Tecnologia,2026-08-10,2026-08-24,23614.71,Em aberto,,Baixa,Passagens
+CP-0227,Papelaria Horizonte,Utilidades,Operações,2026-05-28,2026-07-02,23423.06,Pago,2026-07-01,Baixa,Conta de água
+CP-0228,Transporte Via Norte,Marketing,Administrativo,2026-07-04,2026-07-18,516.90,Pago,2026-07-19,Alta,Material promocional
+CP-0229,Papelaria Horizonte,Tecnologia,Financeiro,2026-06-14,2026-06-28,28492.22,Pago,2026-07-11,Média,Hospedagem em nuvem
+CP-0230,Transporte Via Norte,Viagens,Operações,2026-08-03,2026-10-02,16231.29,Pago,2026-09-29,Baixa,Passagens
+CP-0231,Papelaria Horizonte,Tecnologia,Financeiro,2026-01-09,2026-02-08,6087.88,Pago,2026-02-05,Média,Suporte técnico
+CP-0232,Água Serra Verde,Aluguel,Administrativo,2025-12-10,2026-01-07,27909.46,Pago,2026-01-23,Média,Locação de escritório
+CP-0233,Hotel Vila Serena,Materiais,Tecnologia,2026-10-28,2026-12-12,7445.33,Em aberto,,Média,Compra de equipamentos
+CP-0234,Transporte Via Norte,Aluguel,Comercial,2026-04-02,2026-04-23,12934.16,Pago,2026-04-24,Baixa,Locação de equipamento
+CP-0235,Papelaria Horizonte,Viagens,Pessoas,2026-02-11,2026-04-12,16500.56,Em aberto,,Alta,Hospedagem corporativa
+CP-0236,Hotel Vila Serena,Viagens,Financeiro,2026-08-30,2026-09-27,5641.29,Pago,2026-10-01,Média,Passagens
+CP-0237,Limpeza Brilho Novo,Marketing,Operações,2026-05-13,2026-06-17,13160.43,Pago,2026-06-12,Média,Campanha digital
+CP-0238,Água Serra Verde,Serviços,Pessoas,2025-10-21,2025-11-18,15176.01,Pago,2025-11-25,Baixa,Manutenção preventiva
+CP-0239,Transporte Via Norte,Tecnologia,Operações,2025-12-18,2025-12-25,294.44,Em aberto,,Baixa,Suporte técnico
+CP-0240,Limpeza Brilho Novo,Serviços,Tecnologia,2025-11-15,2025-11-22,7812.34,Pago,2025-11-24,Baixa,Serviço de limpeza
+CP-0241,Telefonia Conecta,Tecnologia,Comercial,2026-06-07,2026-07-12,10610.34,Pago,2026-07-21,Média,Suporte técnico
+CP-0242,Café das Palmeiras,Viagens,Tecnologia,2025-12-10,2025-12-17,10145.73,Pago,2025-12-27,Média,Hospedagem corporativa
+CP-0243,Software Ponto Azul,Aluguel,Financeiro,2026-05-11,2026-06-25,18917.28,Pago,2026-07-02,Média,Condomínio
+CP-0244,Papelaria Horizonte,Viagens,Financeiro,2026-01-16,2026-03-17,2344.78,Em aberto,,Média,Passagens
+CP-0245,Logística Rota Sul,Serviços,Operações,2026-05-29,2026-07-28,5076.45,Pago,2026-07-31,Média,Serviço de limpeza
+CP-0246,Água Serra Verde,Utilidades,Administrativo,2025-12-19,2026-01-09,19692.91,Em aberto,,Média,Conta de água
+CP-0247,Limpeza Brilho Novo,Viagens,Comercial,2026-09-14,2026-11-13,20499.84,Em aberto,,Alta,Passagens
+CP-0248,Nuvem Clara Tecnologia,Viagens,Pessoas,2025-12-30,2026-01-06,5345.63,Pago,2026-01-18,Média,Hospedagem corporativa
+CP-0249,Manutenção Ponto Certo,Materiais,Operações,2026-09-03,2026-10-18,7808.96,Pago,2026-10-28,Média,Material de escritório
+CP-0250,Energia do Vale,Serviços,Comercial,2026-08-15,2026-08-29,18878.27,Pago,2026-09-14,Baixa,Manutenção preventiva
+CP-0251,Café das Palmeiras,Aluguel,Pessoas,2025-11-12,2025-12-12,4850.21,Pago,2025-12-08,Média,Locação de escritório
+CP-0252,Consultoria Prisma,Tecnologia,Operações,2026-09-05,2026-09-12,14065.92,Pago,2026-09-27,Média,Hospedagem em nuvem
+CP-0253,Gráfica Estação,Aluguel,Comercial,2026-06-01,2026-07-16,15324.07,Em aberto,,Média,Locação de equipamento
+CP-0254,Software Ponto Azul,Tecnologia,Administrativo,2026-03-06,2026-03-13,8080.65,Em aberto,,Média,Hospedagem em nuvem
+CP-0255,Telefonia Conecta,Utilidades,Tecnologia,2025-11-27,2026-01-01,16626.84,Em aberto,,Alta,Conta de água
+CP-0256,Papelaria Horizonte,Materiais,Operações,2026-10-13,2026-11-27,23074.49,Em aberto,,Média,Insumos operacionais
+CP-0257,Manutenção Ponto Certo,Marketing,Operações,2026-05-09,2026-06-08,3996.74,Pago,2026-06-23,Baixa,Campanha digital
+CP-0258,Logística Rota Sul,Serviços,Operações,2025-12-05,2025-12-19,21704.50,Em aberto,,Baixa,Consultoria mensal
+CP-0259,Água Serra Verde,Aluguel,Tecnologia,2026-01-18,2026-02-01,26865.20,Em aberto,,Média,Locação de escritório
+CP-0260,Café das Palmeiras,Materiais,Financeiro,2026-07-01,2026-08-15,24311.46,Em aberto,,Média,Material de escritório
+CP-0261,Software Ponto Azul,Aluguel,Pessoas,2026-03-16,2026-05-15,12566.37,Pago,2026-05-18,Média,Condomínio
+CP-0262,Gráfica Estação,Serviços,Comercial,2025-12-10,2025-12-17,6344.42,Pago,2025-12-23,Alta,Manutenção preventiva
+CP-0263,Manutenção Ponto Certo,Utilidades,Financeiro,2026-10-25,2026-11-01,3138.92,Em aberto,,Alta,Telefonia e internet
+CP-0264,Papelaria Horizonte,Materiais,Administrativo,2025-12-11,2026-01-01,22351.64,Pago,2026-01-10,Média,Material de escritório
+CP-0265,Manutenção Ponto Certo,Aluguel,Comercial,2026-09-06,2026-09-20,12826.76,Em aberto,,Baixa,Condomínio
+CP-0266,Transporte Via Norte,Serviços,Comercial,2026-05-30,2026-06-06,8568.71,Em aberto,,Média,Consultoria mensal
+CP-0267,Papelaria Horizonte,Viagens,Tecnologia,2025-12-05,2026-01-04,10151.48,Pago,2025-12-31,Baixa,Transporte terrestre
+CP-0268,Logística Rota Sul,Serviços,Comercial,2025-12-24,2026-02-07,14667.36,Em aberto,,Média,Consultoria mensal
+CP-0269,Água Serra Verde,Marketing,Comercial,2026-06-11,2026-06-18,2231.43,Pago,2026-06-20,Baixa,Campanha digital
+CP-0270,Limpeza Brilho Novo,Materiais,Operações,2025-12-09,2026-02-07,13381.34,Pago,2026-02-03,Média,Compra de equipamentos
+CP-0271,Nuvem Clara Tecnologia,Viagens,Administrativo,2026-04-15,2026-06-14,6436.21,Pago,2026-06-27,Média,Passagens
+CP-0272,Papelaria Horizonte,Serviços,Administrativo,2026-01-25,2026-02-15,8681.46,Em aberto,,Alta,Manutenção preventiva
+CP-0273,Limpeza Brilho Novo,Logística,Administrativo,2026-05-07,2026-06-04,23013.08,Pago,2026-06-07,Alta,Entrega expressa
+CP-0274,Consultoria Prisma,Viagens,Financeiro,2026-08-30,2026-09-27,37579.01,Pago,2026-09-25,Média,Passagens
+CP-0275,Nuvem Clara Tecnologia,Materiais,Comercial,2025-12-18,2026-01-22,18139.46,Pago,2026-01-25,Média,Insumos operacionais
+CP-0276,Hotel Vila Serena,Materiais,Financeiro,2026-10-15,2026-12-14,6491.90,Em aberto,,Média,Material de escritório
+CP-0277,Nuvem Clara Tecnologia,Tecnologia,Pessoas,2026-07-23,2026-07-30,13209.09,Em aberto,,Alta,Hospedagem em nuvem
+CP-0278,Consultoria Prisma,Logística,Tecnologia,2026-09-09,2026-11-08,15144.61,Em aberto,,Média,Entrega expressa
+CP-0279,Água Serra Verde,Marketing,Pessoas,2026-02-20,2026-04-21,7590.70,Pago,2026-04-29,Média,Material promocional
+CP-0280,Manutenção Ponto Certo,Serviços,Financeiro,2026-01-04,2026-01-18,27036.66,Pago,2026-01-15,Média,Manutenção preventiva
+CP-0281,Segurança Guardião,Tecnologia,Comercial,2026-07-22,2026-08-19,13366.40,Pago,2026-08-15,Média,Suporte técnico
+CP-0282,Hotel Vila Serena,Viagens,Financeiro,2026-10-26,2026-11-02,18822.69,Em aberto,,Média,Passagens
+CP-0283,Café das Palmeiras,Aluguel,Comercial,2026-06-14,2026-07-12,18788.72,Em aberto,,Baixa,Condomínio
+CP-0284,Gráfica Estação,Logística,Financeiro,2025-11-06,2025-11-27,3668.32,Pago,2025-11-25,Média,Frete de mercadorias
+CP-0285,Água Serra Verde,Serviços,Operações,2025-12-09,2026-01-06,4669.78,Pago,2026-01-06,Baixa,Consultoria mensal
+CP-0286,Energia do Vale,Serviços,Operações,2026-04-06,2026-04-27,15101.56,Pago,2026-05-05,Baixa,Manutenção preventiva
+CP-0287,Hotel Vila Serena,Tecnologia,Comercial,2026-06-18,2026-07-09,16317.49,Em aberto,,Média,Suporte técnico
+CP-0288,Móveis Traço,Viagens,Pessoas,2026-05-05,2026-06-19,12153.88,Pago,2026-07-03,Alta,Transporte terrestre
+CP-0289,Segurança Guardião,Viagens,Pessoas,2026-01-01,2026-01-31,12439.56,Em aberto,,Alta,Transporte terrestre
+CP-0290,Segurança Guardião,Logística,Administrativo,2026-05-19,2026-06-02,7644.73,Pago,2026-06-11,Baixa,Armazenagem
+CP-0291,Software Ponto Azul,Serviços,Pessoas,2026-02-27,2026-03-13,5125.69,Em aberto,,Baixa,Consultoria mensal
+CP-0292,Software Ponto Azul,Tecnologia,Financeiro,2026-04-22,2026-06-06,5645.06,Pago,2026-06-02,Baixa,Suporte técnico
+CP-0293,Limpeza Brilho Novo,Tecnologia,Financeiro,2026-04-21,2026-05-21,19458.10,Pago,2026-05-23,Alta,Hospedagem em nuvem
+CP-0294,Manutenção Ponto Certo,Serviços,Pessoas,2026-04-24,2026-05-24,2799.12,Pago,2026-06-07,Baixa,Manutenção preventiva
+CP-0295,Gráfica Estação,Materiais,Pessoas,2026-01-23,2026-02-22,12893.59,Pago,2026-02-26,Média,Compra de equipamentos
+CP-0296,Móveis Traço,Logística,Comercial,2026-07-02,2026-07-16,28121.63,Em aberto,,Média,Entrega expressa
+CP-0297,Alimentos Campo Bom,Tecnologia,Tecnologia,2025-11-24,2025-12-24,17466.44,Pago,2025-12-27,Média,Hospedagem em nuvem
+CP-0298,Hotel Vila Serena,Serviços,Tecnologia,2026-07-16,2026-08-06,1396.92,Pago,2026-08-10,Média,Consultoria mensal
+CP-0299,Papelaria Horizonte,Materiais,Financeiro,2026-04-18,2026-05-09,20436.15,Em aberto,,Média,Compra de equipamentos
+CP-0300,Segurança Guardião,Logística,Operações,2026-05-30,2026-06-20,12310.69,Pago,2026-06-17,Média,Entrega expressa
+CP-0301,Logística Rota Sul,Utilidades,Comercial,2026-06-14,2026-07-05,22561.37,Em aberto,,Média,Telefonia e internet
+CP-0302,Água Serra Verde,Tecnologia,Financeiro,2026-01-09,2026-01-23,19818.95,Pago,2026-01-21,Baixa,Suporte técnico
+CP-0303,Segurança Guardião,Tecnologia,Comercial,2026-05-21,2026-06-18,12852.26,Pago,2026-07-05,Alta,Hospedagem em nuvem
+CP-0304,Transporte Via Norte,Materiais,Pessoas,2026-09-08,2026-09-15,15997.01,Pago,2026-09-11,Baixa,Material de escritório
+CP-0305,Transporte Via Norte,Serviços,Financeiro,2026-06-24,2026-07-22,9959.47,Pago,2026-08-05,Média,Consultoria mensal
+CP-0306,Limpeza Brilho Novo,Logística,Administrativo,2026-10-14,2026-10-21,9592.95,Em aberto,,Média,Frete de mercadorias
+CP-0307,Limpeza Brilho Novo,Marketing,Operações,2026-02-12,2026-04-13,2292.06,Pago,2026-04-25,Média,Produção de conteúdo
+CP-0308,Papelaria Horizonte,Serviços,Pessoas,2026-03-14,2026-05-13,12249.03,Em aberto,,Alta,Consultoria mensal
+CP-0309,Consultoria Prisma,Tecnologia,Operações,2026-10-14,2026-10-28,2471.67,Em aberto,,Baixa,Hospedagem em nuvem
+CP-0310,Segurança Guardião,Marketing,Financeiro,2025-12-09,2026-02-07,19756.32,Em aberto,,Baixa,Material promocional
+CP-0311,Gráfica Estação,Serviços,Operações,2026-10-07,2026-11-04,34284.48,Em aberto,,Média,Manutenção preventiva
+CP-0312,Telefonia Conecta,Materiais,Pessoas,2026-02-17,2026-04-03,24560.69,Pago,2026-04-08,Baixa,Compra de equipamentos
+CP-0313,Móveis Traço,Aluguel,Comercial,2025-11-06,2026-01-05,28355.21,Pago,2026-01-04,Alta,Locação de escritório
+CP-0314,Nuvem Clara Tecnologia,Serviços,Operações,2026-08-19,2026-09-23,8143.68,Pago,2026-10-11,Alta,Serviço de limpeza
+CP-0315,Segurança Guardião,Utilidades,Administrativo,2026-05-18,2026-07-02,20581.25,Pago,2026-07-01,Média,Telefonia e internet
+CP-0316,Móveis Traço,Logística,Operações,2026-07-22,2026-08-12,23671.32,Pago,2026-08-29,Média,Armazenagem
+CP-0317,Consultoria Prisma,Serviços,Tecnologia,2025-12-12,2026-01-11,24355.45,Em aberto,,Média,Consultoria mensal
+CP-0318,Hotel Vila Serena,Logística,Comercial,2026-02-13,2026-03-13,21155.30,Pago,2026-03-14,Média,Entrega expressa
+CP-0319,Consultoria Prisma,Materiais,Financeiro,2026-01-25,2026-03-11,13802.94,Pago,2026-03-07,Baixa,Compra de equipamentos
+CP-0320,Logística Rota Sul,Logística,Administrativo,2026-08-28,2026-09-04,9044.65,Pago,2026-09-11,Média,Frete de mercadorias
+CP-0321,Gráfica Estação,Tecnologia,Pessoas,2026-05-24,2026-06-28,20353.89,Pago,2026-07-06,Média,Suporte técnico
+CP-0322,Telefonia Conecta,Serviços,Financeiro,2026-09-26,2026-10-31,8581.46,Em aberto,,Média,Consultoria mensal
+CP-0323,Software Ponto Azul,Marketing,Administrativo,2026-05-10,2026-07-09,2167.71,Pago,2026-07-15,Baixa,Campanha digital
+CP-0324,Energia do Vale,Aluguel,Pessoas,2025-10-30,2025-11-20,10500.64,Pago,2025-11-28,Baixa,Locação de escritório
+CP-0325,Gráfica Estação,Serviços,Pessoas,2026-09-05,2026-09-19,28308.87,Pago,2026-09-16,Média,Consultoria mensal
+CP-0326,Alimentos Campo Bom,Tecnologia,Operações,2026-02-14,2026-02-28,18862.26,Pago,2026-03-02,Baixa,Hospedagem em nuvem
+CP-0327,Café das Palmeiras,Serviços,Comercial,2025-12-17,2026-01-16,2470.74,Em aberto,,Baixa,Manutenção preventiva
+CP-0328,Manutenção Ponto Certo,Serviços,Tecnologia,2026-04-11,2026-05-02,32068.94,Pago,2026-05-05,Baixa,Serviço de limpeza
+CP-0329,Móveis Traço,Logística,Pessoas,2026-02-11,2026-02-25,6108.36,Pago,2026-02-27,Média,Frete de mercadorias
+CP-0330,Água Serra Verde,Viagens,Pessoas,2026-01-09,2026-01-30,6806.20,Em aberto,,Baixa,Passagens
+CP-0331,Transporte Via Norte,Aluguel,Pessoas,2026-10-15,2026-12-14,20601.29,Em aberto,,Alta,Locação de equipamento
+CP-0332,Software Ponto Azul,Marketing,Comercial,2026-04-02,2026-04-23,736.43,Em aberto,,Baixa,Material promocional
+CP-0333,Energia do Vale,Materiais,Financeiro,2026-04-07,2026-05-05,16914.30,Pago,2026-05-02,Média,Material de escritório
+CP-0334,Transporte Via Norte,Materiais,Tecnologia,2025-11-29,2025-12-20,12336.93,Pago,2025-12-22,Média,Insumos operacionais
+CP-0335,Transporte Via Norte,Logística,Operações,2026-07-25,2026-09-23,20842.88,Pago,2026-10-08,Média,Armazenagem
+CP-0336,Transporte Via Norte,Utilidades,Tecnologia,2026-02-27,2026-03-06,5249.28,Em aberto,,Baixa,Telefonia e internet
+CP-0337,Água Serra Verde,Utilidades,Pessoas,2025-12-26,2026-01-16,16367.91,Em aberto,,Alta,Conta de energia
+CP-0338,Limpeza Brilho Novo,Serviços,Administrativo,2026-07-06,2026-09-04,7340.11,Pago,2026-09-01,Alta,Manutenção preventiva
+CP-0339,Segurança Guardião,Aluguel,Administrativo,2026-05-05,2026-05-19,5042.28,Pago,2026-05-24,Alta,Condomínio
+CP-0340,Café das Palmeiras,Marketing,Financeiro,2026-01-29,2026-02-19,12711.93,Pago,2026-03-03,Baixa,Campanha digital
+CP-0341,Logística Rota Sul,Tecnologia,Administrativo,2026-09-05,2026-09-19,22032.29,Pago,2026-09-25,Média,Suporte técnico
+CP-0342,Software Ponto Azul,Viagens,Comercial,2026-05-29,2026-06-26,1640.92,Pago,2026-07-12,Baixa,Transporte terrestre
+CP-0343,Limpeza Brilho Novo,Serviços,Administrativo,2026-09-18,2026-11-02,18919.69,Em aberto,,Média,Consultoria mensal
+CP-0344,Café das Palmeiras,Tecnologia,Operações,2026-01-11,2026-02-01,541.08,Pago,2026-02-01,Alta,Hospedagem em nuvem
+CP-0345,Transporte Via Norte,Marketing,Comercial,2026-02-07,2026-04-08,9977.36,Pago,2026-04-09,Alta,Produção de conteúdo
+CP-0346,Telefonia Conecta,Marketing,Comercial,2026-06-21,2026-07-19,17044.63,Pago,2026-07-23,Média,Campanha digital
+CP-0347,Gráfica Estação,Utilidades,Administrativo,2026-03-11,2026-04-01,11638.20,Pago,2026-04-02,Baixa,Conta de água
+CP-0348,Gráfica Estação,Logística,Comercial,2026-08-04,2026-09-18,8248.24,Pago,2026-09-15,Média,Armazenagem
+CP-0349,Papelaria Horizonte,Aluguel,Tecnologia,2026-06-05,2026-07-20,22547.43,Pago,2026-07-25,Alta,Locação de escritório
+CP-0350,Gráfica Estação,Serviços,Tecnologia,2026-04-15,2026-05-20,14851.38,Em aberto,,Baixa,Manutenção preventiva
+CP-0351,Limpeza Brilho Novo,Materiais,Pessoas,2025-12-10,2026-01-07,20238.29,Em aberto,,Alta,Insumos operacionais
+CP-0352,Manutenção Ponto Certo,Marketing,Operações,2026-09-25,2026-10-02,21852.78,Pago,2026-10-14,Média,Material promocional
+CP-0353,Papelaria Horizonte,Materiais,Tecnologia,2026-06-17,2026-08-01,6570.66,Pago,2026-08-15,Média,Compra de equipamentos
+CP-0354,Transporte Via Norte,Utilidades,Pessoas,2026-04-24,2026-05-08,4746.91,Pago,2026-05-14,Baixa,Telefonia e internet
+CP-0355,Café das Palmeiras,Utilidades,Operações,2025-10-25,2025-12-24,2965.49,Pago,2026-01-10,Alta,Telefonia e internet
+CP-0356,Hotel Vila Serena,Marketing,Comercial,2026-02-22,2026-04-08,6908.04,Pago,2026-04-14,Baixa,Material promocional
+CP-0357,Serviços Alfa,Logística,Tecnologia,2026-08-27,2026-10-01,28588.14,Pago,2026-10-14,Média,Entrega expressa
+CP-0358,Limpeza Brilho Novo,Serviços,Financeiro,2025-10-07,2025-10-21,21141.16,Pago,2025-11-07,Média,Manutenção preventiva
+CP-0359,Café das Palmeiras,Serviços,Operações,2026-09-03,2026-10-01,22671.21,Pago,2026-10-08,Média,Manutenção preventiva
+CP-0360,Nuvem Clara Tecnologia,Tecnologia,Administrativo,2026-05-01,2026-05-15,10136.07,Pago,2026-05-18,Média,Suporte técnico
+CP-0361,Café das Palmeiras,Logística,Tecnologia,2026-02-16,2026-03-23,6445.98,Pago,2026-04-05,Média,Entrega expressa
+CP-0362,Gráfica Estação,Materiais,Pessoas,2026-04-16,2026-05-31,10632.18,Em aberto,,Média,Compra de equipamentos
+CP-0363,Software Ponto Azul,Serviços,Financeiro,2026-06-03,2026-08-02,18495.16,Pago,2026-08-12,Baixa,Consultoria mensal
+CP-0364,Alimentos Campo Bom,Marketing,Administrativo,2025-12-29,2026-01-28,28203.42,Pago,2026-01-26,Média,Campanha digital
+CP-0365,Serviços Alfa,Serviços,Operações,2026-05-14,2026-06-18,20365.54,Pago,2026-06-17,Baixa,Consultoria mensal
+CP-0366,Manutenção Ponto Certo,Viagens,Operações,2026-03-11,2026-04-10,2626.12,Em aberto,,Média,Transporte terrestre
+CP-0367,Nuvem Clara Tecnologia,Tecnologia,Tecnologia,2026-05-05,2026-05-26,12219.82,Pago,2026-06-02,Baixa,Suporte técnico
+CP-0368,Telefonia Conecta,Logística,Operações,2026-01-27,2026-02-26,15217.67,Pago,2026-03-03,Média,Entrega expressa
+CP-0369,Limpeza Brilho Novo,Serviços,Comercial,2025-11-07,2025-11-28,22676.58,Pago,2025-11-25,Baixa,Serviço de limpeza
+CP-0370,Hotel Vila Serena,Tecnologia,Financeiro,2025-11-15,2026-01-14,37488.93,Em aberto,,Média,Suporte técnico
+CP-0371,Software Ponto Azul,Serviços,Pessoas,2026-10-22,2026-11-26,16955.72,Em aberto,,Média,Consultoria mensal
+CP-0372,Energia do Vale,Tecnologia,Comercial,2026-08-03,2026-08-17,16249.91,Pago,2026-08-31,Média,Suporte técnico
+CP-0373,Segurança Guardião,Aluguel,Operações,2026-01-29,2026-03-30,4691.66,Em aberto,,Média,Locação de escritório
+CP-0374,Café das Palmeiras,Viagens,Tecnologia,2026-08-30,2026-10-14,17280.42,Pago,2026-10-10,Alta,Passagens
+CP-0375,Gráfica Estação,Aluguel,Administrativo,2026-03-24,2026-04-23,7593.55,Pago,2026-04-25,Média,Locação de equipamento
+CP-0376,Hotel Vila Serena,Tecnologia,Tecnologia,2026-09-16,2026-10-21,16281.16,Pago,2026-10-21,Baixa,Licença de software
+CP-0377,Limpeza Brilho Novo,Serviços,Financeiro,2026-05-16,2026-06-15,9891.00,Pago,2026-06-25,Baixa,Manutenção preventiva
+CP-0378,Água Serra Verde,Serviços,Operações,2026-06-18,2026-07-02,2501.22,Em aberto,,Baixa,Consultoria mensal
+CP-0379,Móveis Traço,Utilidades,Operações,2026-08-29,2026-10-03,10940.27,Pago,2026-09-29,Alta,Conta de água
+CP-0380,Móveis Traço,Serviços,Administrativo,2026-06-13,2026-07-11,1711.11,Pago,2026-07-19,Alta,Consultoria mensal
+CP-0381,Segurança Guardião,Utilidades,Operações,2025-12-07,2026-01-11,20609.44,Pago,2026-01-27,Média,Conta de energia
+CP-0382,Hotel Vila Serena,Materiais,Comercial,2025-10-17,2025-12-01,18446.80,Pago,2025-12-18,Alta,Insumos operacionais
+CP-0383,Consultoria Prisma,Serviços,Tecnologia,2026-03-01,2026-03-08,9083.23,Pago,2026-03-09,Alta,Serviço de limpeza
+CP-0384,Móveis Traço,Utilidades,Pessoas,2026-06-01,2026-06-29,26211.60,Em aberto,,Baixa,Telefonia e internet
+CP-0385,Transporte Via Norte,Serviços,Administrativo,2025-10-26,2025-12-10,26678.72,Em aberto,,Média,Consultoria mensal
+CP-0386,Limpeza Brilho Novo,Marketing,Administrativo,2026-08-16,2026-09-13,29144.51,Pago,2026-09-13,Média,Produção de conteúdo
+CP-0387,Telefonia Conecta,Materiais,Administrativo,2026-05-21,2026-07-05,8715.14,Pago,2026-07-12,Média,Compra de equipamentos
+CP-0388,Manutenção Ponto Certo,Aluguel,Tecnologia,2026-01-31,2026-02-21,16080.36,Pago,2026-03-04,Média,Locação de equipamento
+CP-0389,Segurança Guardião,Utilidades,Tecnologia,2026-01-03,2026-01-17,12180.27,Pago,2026-01-14,Baixa,Telefonia e internet
+CP-0390,Consultoria Prisma,Serviços,Operações,2026-02-18,2026-03-25,14089.59,Pago,2026-04-09,Média,Consultoria mensal
+CP-0391,Papelaria Horizonte,Aluguel,Financeiro,2026-01-30,2026-02-06,9754.51,Pago,2026-02-12,Baixa,Condomínio
+CP-0392,Gráfica Estação,Logística,Comercial,2026-03-12,2026-04-11,1918.18,Pago,2026-04-08,Média,Frete de mercadorias
+CP-0393,Energia do Vale,Viagens,Financeiro,2026-04-18,2026-04-25,22117.77,Pago,2026-04-23,Média,Hospedagem corporativa
+CP-0394,Hotel Vila Serena,Logística,Administrativo,2026-09-15,2026-10-15,27585.97,Pago,2026-10-19,Média,Frete de mercadorias
+CP-0395,Energia do Vale,Aluguel,Administrativo,2026-07-11,2026-07-25,15844.59,Pago,2026-07-28,Média,Condomínio
+CP-0396,Energia do Vale,Logística,Comercial,2026-02-02,2026-03-09,7949.86,Em aberto,,Baixa,Frete de mercadorias
+CP-0397,Manutenção Ponto Certo,Logística,Tecnologia,2026-03-30,2026-04-20,26460.05,Pago,2026-04-23,Média,Frete de mercadorias
+CP-0398,Nuvem Clara Tecnologia,Logística,Administrativo,2026-08-25,2026-10-24,28355.81,Pago,2026-10-22,Baixa,Armazenagem
+CP-0399,Nuvem Clara Tecnologia,Tecnologia,Operações,2026-01-14,2026-02-04,9304.21,Em aberto,,Baixa,Hospedagem em nuvem
+CP-0400,Papelaria Horizonte,Logística,Comercial,2026-01-22,2026-02-21,18788.73,Em aberto,,Média,Frete de mercadorias
+CP-0401,Água Serra Verde,Utilidades,Tecnologia,2026-02-19,2026-03-19,8188.65,Pago,2026-03-21,Alta,Conta de energia
+CP-0402,Água Serra Verde,Viagens,Financeiro,2026-07-06,2026-08-05,10601.64,Pago,2026-08-19,Média,Transporte terrestre
+CP-0403,Telefonia Conecta,Serviços,Pessoas,2026-03-16,2026-03-23,17484.34,Pago,2026-04-04,Média,Consultoria mensal
+CP-0404,Logística Rota Sul,Marketing,Comercial,2026-05-24,2026-06-07,2167.83,Pago,2026-06-16,Média,Produção de conteúdo
+CP-0405,Hotel Vila Serena,Tecnologia,Tecnologia,2025-11-21,2026-01-20,5501.88,Pago,2026-01-30,Baixa,Suporte técnico
+CP-0406,Gráfica Estação,Materiais,Administrativo,2026-01-21,2026-02-20,11803.72,Pago,2026-02-24,Baixa,Compra de equipamentos
+CP-0407,Energia do Vale,Utilidades,Comercial,2026-10-10,2026-10-31,24665.46,Em aberto,,Baixa,Conta de energia
+CP-0408,Limpeza Brilho Novo,Serviços,Financeiro,2026-08-17,2026-10-01,4205.04,Pago,2026-09-26,Baixa,Manutenção preventiva
+CP-0409,Serviços Alfa,Aluguel,Tecnologia,2025-11-20,2025-11-27,17697.54,Em aberto,,Média,Locação de equipamento
+CP-0410,Alimentos Campo Bom,Utilidades,Pessoas,2026-10-27,2026-12-11,19366.50,Em aberto,,Baixa,Telefonia e internet
+CP-0411,Café das Palmeiras,Viagens,Financeiro,2026-04-19,2026-06-03,13107.02,Pago,2026-06-16,Média,Transporte terrestre
+CP-0412,Móveis Traço,Materiais,Operações,2026-05-25,2026-06-08,30681.70,Em aberto,,Baixa,Insumos operacionais
+CP-0413,Móveis Traço,Serviços,Financeiro,2026-09-15,2026-10-06,21413.36,Em aberto,,Baixa,Serviço de limpeza
+CP-0414,Alimentos Campo Bom,Viagens,Comercial,2025-12-15,2026-01-12,10010.72,Pago,2026-01-19,Média,Passagens
+CP-0415,Segurança Guardião,Marketing,Tecnologia,2026-06-15,2026-07-15,8242.36,Em aberto,,Baixa,Material promocional
+CP-0416,Telefonia Conecta,Utilidades,Comercial,2026-08-25,2026-09-22,14181.52,Em aberto,,Média,Conta de água
+CP-0417,Software Ponto Azul,Utilidades,Operações,2025-10-05,2025-11-04,631.31,Pago,2025-11-12,Alta,Conta de energia
+CP-0418,Móveis Traço,Viagens,Pessoas,2026-01-02,2026-01-30,7285.94,Pago,2026-02-11,Média,Transporte terrestre
+CP-0419,Energia do Vale,Marketing,Financeiro,2026-04-24,2026-05-08,18703.48,Em aberto,,Baixa,Campanha digital
+CP-0420,Segurança Guardião,Serviços,Operações,2025-12-22,2026-01-05,21188.22,Pago,2026-01-13,Média,Manutenção preventiva
+CP-0421,Alimentos Campo Bom,Utilidades,Tecnologia,2025-12-21,2026-01-25,33660.01,Pago,2026-01-25,Média,Conta de energia
+CP-0422,Software Ponto Azul,Viagens,Comercial,2026-08-08,2026-08-15,5986.71,Pago,2026-08-13,Alta,Transporte terrestre
+CP-0423,Papelaria Horizonte,Logística,Financeiro,2026-01-21,2026-01-28,12662.38,Pago,2026-02-13,Média,Frete de mercadorias
+CP-0424,Logística Rota Sul,Materiais,Pessoas,2026-03-06,2026-03-13,327.66,Em aberto,,Média,Material de escritório
+CP-0425,Logística Rota Sul,Utilidades,Comercial,2025-11-21,2025-12-12,23482.70,Pago,2025-12-23,Média,Conta de energia
+CP-0426,Hotel Vila Serena,Marketing,Pessoas,2026-05-21,2026-06-11,17152.15,Pago,2026-06-06,Baixa,Produção de conteúdo
+CP-0427,Papelaria Horizonte,Serviços,Tecnologia,2026-05-21,2026-06-18,16439.44,Pago,2026-06-14,Média,Consultoria mensal
+CP-0428,Logística Rota Sul,Tecnologia,Pessoas,2026-07-21,2026-08-25,3590.91,Pago,2026-08-27,Média,Licença de software
+CP-0429,Software Ponto Azul,Serviços,Pessoas,2026-07-23,2026-09-21,31585.54,Em aberto,,Baixa,Serviço de limpeza
+CP-0430,Energia do Vale,Viagens,Tecnologia,2026-10-13,2026-11-10,5047.27,Em aberto,,Média,Transporte terrestre
+CP-0431,Consultoria Prisma,Logística,Operações,2026-07-29,2026-08-12,19386.87,Em aberto,,Baixa,Frete de mercadorias
+CP-0432,Papelaria Horizonte,Serviços,Financeiro,2026-01-18,2026-03-19,22335.55,Pago,2026-03-22,Média,Manutenção preventiva
+CP-0433,Telefonia Conecta,Tecnologia,Operações,2025-12-22,2026-02-20,1156.31,Pago,2026-02-28,Baixa,Hospedagem em nuvem
+CP-0434,Gráfica Estação,Marketing,Tecnologia,2026-10-03,2026-11-02,27337.46,Em aberto,,Alta,Material promocional
+CP-0435,Gráfica Estação,Logística,Financeiro,2026-02-24,2026-03-10,1020.57,Em aberto,,Baixa,Entrega expressa
+CP-0436,Logística Rota Sul,Tecnologia,Financeiro,2026-01-04,2026-02-03,1695.66,Em aberto,,Média,Hospedagem em nuvem
+CP-0437,Logística Rota Sul,Logística,Pessoas,2026-08-06,2026-09-05,11598.24,Em aberto,,Média,Frete de mercadorias
+CP-0438,Café das Palmeiras,Serviços,Administrativo,2025-12-07,2026-01-21,17626.79,Pago,2026-01-23,Baixa,Serviço de limpeza
+CP-0439,Telefonia Conecta,Logística,Pessoas,2026-09-03,2026-09-24,720.48,Pago,2026-09-27,Média,Entrega expressa
+CP-0440,Alimentos Campo Bom,Aluguel,Operações,2026-02-09,2026-03-11,15028.46,Em aberto,,Média,Condomínio
+CP-0441,Consultoria Prisma,Viagens,Tecnologia,2026-04-06,2026-05-06,12579.25,Pago,2026-05-10,Média,Passagens
+CP-0442,Limpeza Brilho Novo,Tecnologia,Tecnologia,2026-06-10,2026-07-08,19720.69,Em aberto,,Baixa,Hospedagem em nuvem
+CP-0443,Móveis Traço,Materiais,Operações,2026-09-23,2026-09-30,17856.43,Pago,2026-10-16,Alta,Insumos operacionais
+CP-0444,Café das Palmeiras,Aluguel,Financeiro,2026-05-29,2026-06-26,36211.83,Pago,2026-07-04,Média,Condomínio
+CP-0445,Limpeza Brilho Novo,Tecnologia,Tecnologia,2026-06-17,2026-08-16,28300.16,Pago,2026-08-24,Média,Suporte técnico
+CP-0446,Nuvem Clara Tecnologia,Logística,Pessoas,2026-05-29,2026-06-05,6286.17,Pago,2026-06-19,Média,Armazenagem
+CP-0447,Água Serra Verde,Viagens,Pessoas,2026-03-30,2026-05-04,14319.47,Pago,2026-05-06,Baixa,Passagens
+CP-0448,Serviços Alfa,Marketing,Operações,2026-04-19,2026-05-19,14673.80,Em aberto,,Alta,Material promocional
+CP-0449,Software Ponto Azul,Materiais,Operações,2025-10-14,2025-10-21,2284.52,Em aberto,,Média,Compra de equipamentos
+CP-0450,Água Serra Verde,Viagens,Pessoas,2026-05-10,2026-06-07,6045.68,Em aberto,,Baixa,Hospedagem corporativa
+CP-0451,Alimentos Campo Bom,Serviços,Pessoas,2026-09-07,2026-10-12,21199.35,Pago,2026-10-12,Alta,Manutenção preventiva
+CP-0452,Serviços Alfa,Viagens,Financeiro,2026-07-13,2026-08-03,7890.64,Em aberto,,Média,Transporte terrestre
+CP-0453,Gráfica Estação,Serviços,Pessoas,2026-01-02,2026-02-06,18523.91,Pago,2026-02-06,Alta,Manutenção preventiva
+CP-0454,Consultoria Prisma,Serviços,Administrativo,2026-07-03,2026-09-01,9215.70,Pago,2026-09-19,Alta,Serviço de limpeza
+CP-0455,Telefonia Conecta,Marketing,Administrativo,2026-05-17,2026-07-16,25008.37,Em aberto,,Média,Produção de conteúdo
+CP-0456,Água Serra Verde,Viagens,Pessoas,2026-04-05,2026-05-10,31512.33,Pago,2026-05-26,Alta,Passagens
+CP-0457,Água Serra Verde,Materiais,Operações,2026-01-08,2026-02-05,14840.96,Pago,2026-02-04,Baixa,Compra de equipamentos
+CP-0458,Limpeza Brilho Novo,Serviços,Pessoas,2026-03-21,2026-05-05,14339.76,Em aberto,,Alta,Consultoria mensal
+CP-0459,Consultoria Prisma,Viagens,Pessoas,2026-02-20,2026-02-27,18858.59,Pago,2026-03-07,Média,Passagens
+CP-0460,Café das Palmeiras,Tecnologia,Operações,2026-05-07,2026-05-14,6801.67,Em aberto,,Alta,Hospedagem em nuvem
+CP-0461,Café das Palmeiras,Materiais,Tecnologia,2026-04-15,2026-06-14,2126.07,Pago,2026-06-25,Baixa,Material de escritório
+CP-0462,Serviços Alfa,Utilidades,Comercial,2026-08-06,2026-08-20,10620.33,Pago,2026-09-01,Média,Telefonia e internet
+CP-0463,Logística Rota Sul,Serviços,Tecnologia,2025-11-11,2025-12-16,11542.44,Em aberto,,Baixa,Consultoria mensal
+CP-0464,Telefonia Conecta,Logística,Pessoas,2026-01-30,2026-03-01,11752.95,Pago,2026-03-18,Baixa,Entrega expressa
+CP-0465,Telefonia Conecta,Utilidades,Financeiro,2025-11-12,2025-12-27,9192.51,Em aberto,,Baixa,Conta de água
+CP-0466,Consultoria Prisma,Logística,Administrativo,2026-10-06,2026-11-03,6973.53,Em aberto,,Baixa,Entrega expressa
+CP-0467,Móveis Traço,Utilidades,Financeiro,2025-12-11,2026-01-10,24206.95,Pago,2026-01-15,Média,Conta de energia
+CP-0468,Transporte Via Norte,Viagens,Pessoas,2026-10-25,2026-12-24,262.22,Pago,2026-10-28,Média,Passagens
+CP-0469,Nuvem Clara Tecnologia,Serviços,Comercial,2026-03-06,2026-03-27,23366.93,Em aberto,,Alta,Manutenção preventiva
+CP-0470,Papelaria Horizonte,Serviços,Administrativo,2026-03-31,2026-04-14,7756.65,Pago,2026-04-09,Média,Consultoria mensal
+CP-0471,Gráfica Estação,Viagens,Tecnologia,2026-03-18,2026-04-22,5716.09,Em aberto,,Baixa,Hospedagem corporativa
+CP-0472,Limpeza Brilho Novo,Aluguel,Tecnologia,2026-04-29,2026-05-06,9719.57,Pago,2026-05-22,Média,Condomínio
+CP-0473,Serviços Alfa,Aluguel,Comercial,2026-04-17,2026-05-15,25190.08,Em aberto,,Média,Locação de equipamento
+CP-0474,Móveis Traço,Logística,Comercial,2026-10-14,2026-11-28,2603.81,Em aberto,,Baixa,Frete de mercadorias
+CP-0475,Gráfica Estação,Tecnologia,Comercial,2026-01-29,2026-03-15,20822.19,Pago,2026-03-31,Média,Licença de software
+CP-0476,Água Serra Verde,Logística,Tecnologia,2026-07-13,2026-08-10,8133.91,Pago,2026-08-27,Média,Armazenagem
+CP-0477,Telefonia Conecta,Tecnologia,Tecnologia,2026-08-08,2026-10-07,13122.07,Em aberto,,Alta,Suporte técnico
+CP-0478,Móveis Traço,Materiais,Pessoas,2026-02-25,2026-03-04,25233.92,Pago,2026-03-05,Baixa,Insumos operacionais
+CP-0479,Segurança Guardião,Aluguel,Operações,2026-10-12,2026-11-16,11859.49,Em aberto,,Média,Condomínio
+CP-0480,Transporte Via Norte,Utilidades,Financeiro,2026-02-24,2026-03-26,15095.17,Em aberto,,Alta,Telefonia e internet
+CP-0481,Software Ponto Azul,Serviços,Operações,2026-07-12,2026-08-02,4331.27,Pago,2026-08-18,Baixa,Serviço de limpeza
+CP-0482,Logística Rota Sul,Serviços,Administrativo,2026-07-31,2026-08-07,27172.91,Pago,2026-08-11,Baixa,Manutenção preventiva
+CP-0483,Logística Rota Sul,Serviços,Financeiro,2026-08-12,2026-10-11,19723.99,Em aberto,,Baixa,Serviço de limpeza
+CP-0484,Energia do Vale,Tecnologia,Administrativo,2025-12-02,2026-01-01,1504.71,Pago,2025-12-31,Alta,Hospedagem em nuvem
+CP-0485,Móveis Traço,Aluguel,Operações,2026-03-27,2026-04-26,17607.95,Pago,2026-05-02,Baixa,Condomínio
+CP-0486,Café das Palmeiras,Materiais,Financeiro,2026-05-08,2026-06-22,8302.68,Pago,2026-07-10,Baixa,Material de escritório
+CP-0487,Manutenção Ponto Certo,Logística,Pessoas,2026-05-12,2026-06-09,15161.14,Pago,2026-06-22,Média,Entrega expressa
+CP-0488,Logística Rota Sul,Aluguel,Operações,2026-07-22,2026-09-20,30832.16,Em aberto,,Média,Condomínio
+CP-0489,Serviços Alfa,Logística,Comercial,2025-10-27,2025-11-17,24318.83,Pago,2025-11-20,Baixa,Armazenagem
+CP-0490,Limpeza Brilho Novo,Logística,Comercial,2026-07-06,2026-08-03,18328.28,Pago,2026-08-09,Alta,Entrega expressa
+CP-0491,Serviços Alfa,Serviços,Pessoas,2026-05-30,2026-07-04,27506.07,Pago,2026-07-09,Alta,Serviço de limpeza
+CP-0492,Energia do Vale,Materiais,Tecnologia,2026-07-25,2026-08-01,14641.35,Pago,2026-08-06,Baixa,Compra de equipamentos
+CP-0493,Gráfica Estação,Tecnologia,Tecnologia,2026-04-29,2026-05-27,16657.34,Em aberto,,Baixa,Licença de software
+CP-0494,Manutenção Ponto Certo,Marketing,Financeiro,2026-04-08,2026-05-06,5408.59,Pago,2026-05-04,Alta,Campanha digital
+CP-0495,Serviços Alfa,Tecnologia,Financeiro,2025-12-08,2025-12-29,15793.98,Pago,2026-01-06,Média,Licença de software
+CP-0496,Software Ponto Azul,Logística,Administrativo,2025-10-04,2025-10-11,19305.93,Pago,2025-10-24,Média,Entrega expressa
+CP-0497,Manutenção Ponto Certo,Marketing,Administrativo,2026-08-01,2026-08-15,26255.39,Pago,2026-08-25,Alta,Produção de conteúdo
+CP-0498,Alimentos Campo Bom,Marketing,Tecnologia,2026-02-06,2026-02-27,20893.00,Pago,2026-03-05,Média,Campanha digital
+CP-0499,Manutenção Ponto Certo,Viagens,Administrativo,2026-07-24,2026-07-31,12062.79,Pago,2026-08-03,Média,Hospedagem corporativa
+CP-0500,Gráfica Estação,Aluguel,Administrativo,2026-01-24,2026-03-25,24074.62,Pago,2026-04-05,Baixa,Condomínio
