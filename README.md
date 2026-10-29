@@ -95,12 +95,11 @@ financeiro-em-dia/
 | `criticidade` | Classificação operacional fictícia |
 | `descricao` | Descrição curta do título |
 
-## Publicar no GitHub
+## Acesso ao projeto
 
-1. Crie um repositório público no GitHub, por exemplo `financeiro-em-dia`.
-2. Envie os arquivos desta pasta para o repositório.
-3. Adicione uma captura de tela do painel ao README depois de executar o app, se quiser destacar o resultado visual.
-4. Na descrição do repositório, use: `Análise de contas a pagar e previsão de desembolsos com Python e Streamlit.`
+Repositório: https://github.com/danielestrela-dev/financeiro-em-dia
+
+O painel roda localmente com Streamlit. Veja os passos em [Como executar](#como-executar). O repositório contém apenas dados sintéticos e pode ser usado como demonstração de portfólio.
 
 ## Limitações
 
